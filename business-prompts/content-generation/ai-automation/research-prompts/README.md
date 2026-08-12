@@ -46,6 +46,6 @@ Detailed documentation of selected projects.
 - APIs
 
 ## Contact
-
+linkdin : Bonaventure M.C
 LinkedIn: [Your LinkedIn]
 Email: [Your professional email]
